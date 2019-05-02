@@ -1,0 +1,12 @@
+<style type="text/css"> 
+@font-face { 
+font-family: MyCustomFont; 
+src: url("汉仪晨妹子简.eot") /* EOT file for IE */ 
+} 
+@font-face { 
+font-family: MyCustomFont; 
+src: url("汉仪晨妹子简.ttf") /* TTF file for CSS3 browsers */ 
+} 
+</style>
+e
+.TestClass{ font-family:MyCustomFont;}
